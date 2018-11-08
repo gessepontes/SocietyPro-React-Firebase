@@ -1,0 +1,7 @@
+export const GET_PERSON = "GET_PERSON";
+export const ADD_PERSON = "ADD_PERSON";
+export const EDIT_PERSON = "EDIT_PERSON";
+export const GET_PERSON_KEY = "GET_PERSON_KEY";
+export const PERSON_INITIAL_VALUES = "PERSON_INITIAL_VALUES";
+
+

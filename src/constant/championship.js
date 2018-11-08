@@ -1,0 +1,7 @@
+export const PIC_PATH = "http://www.societypro.com.br/imagens/fotocampeonato/";
+
+export const CHAMPIONSHIP_FETCHED_INSCRIPTION = "CHAMPIONSHIP_FETCHED_INSCRIPTION";
+export const CHAMPIONSHIP_FETCHED_PREINSCRIPTION = "CHAMPIONSHIP_FETCHED_PREINSCRIPTION";
+
+
+
